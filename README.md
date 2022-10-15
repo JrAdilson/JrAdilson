@@ -1,7 +1,7 @@
-### Hello There, meu nome é Adilson Junior, estudante de Sistemas de Informação na Horus Faculdades, atualmente resido em Pinhalzinho-SC. 👋
+### Hello There! 👋
+#### My name is Adilson Junior, im 23y and currently a Web Developer, passionate about technology and always learning.
 
-- 🔭 Atualmente trabalho utilizando SQL...
-- 🔭 Estudando JavaScript / PHP...
+- 🕮 PHP, JS, SQL.
 
 
 <div>
