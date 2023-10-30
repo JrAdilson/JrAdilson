@@ -1,5 +1,5 @@
 ### Hello There! 👋
-#### My name is Adilson Junior, im 23y and currently a Web Developer, passionate about technology and always learning.
+#### My name is Adilson Junior, im 24y and currently a Web Developer.
 
 - 🕮 PHP, JS, SQL.
 
